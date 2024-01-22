@@ -375,3 +375,4 @@ C:\Users\TI\source\repos\WebCore_teste\WebCore_teste\obj\Debug\net8.0\refint\Web
 C:\Users\TI\source\repos\WebCore_teste\WebCore_teste\obj\Debug\net8.0\WebCore_teste.pdb
 C:\Users\TI\source\repos\WebCore_teste\WebCore_teste\obj\Debug\net8.0\WebCore_teste.genruntimeconfig.cache
 C:\Users\TI\source\repos\WebCore_teste\WebCore_teste\obj\Debug\net8.0\ref\WebCore_teste.dll
+C:\Users\TI\source\repos\WebCore_teste\WebCore_teste\obj\Debug\net8.0\WebCore_teste.sourcelink.json
