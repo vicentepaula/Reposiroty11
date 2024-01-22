@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("WebCore_teste")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c901cbe74c3a1af01d8becfafdb24d0a04946a1e")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("WebCore_teste")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("WebCore_teste")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
